@@ -1,0 +1,20 @@
+
+a1 = 7
+kwadratem SQ2(7) jest 49 
+kwadratem SQ3(7) jest 49 
+kwadratem SQ4(7) jest 49 
+ 
+ ********** 
+kwadratem SQ2(2+3) jest 11 
+kwadratem SQ3(2+3) jest 25 
+kwadratem SQ4(2+3) jest 25 
+ 
+ ********** 
+kwadratem 4/SQ2(2) jest 4 
+kwadratem 4/SQ3(2) jest 4 
+kwadratem 4/SQ4(2) jest 1 
+ 
+ ********** 
+kwadratem SQ2(++a) jest 16 
+kwadratem SQ3(++a) jest 16 
+kwadratem SQ4(++a) jest 16 

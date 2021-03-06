@@ -1,0 +1,160 @@
+15
+INORDER3
+5
+6
+7
+10
+12
+13
+13
+15
+16
+18
+20
+21
+23
+68
+PREORDER15
+ 5
+ 3
+ 12
+ 10
+ 6
+ 7
+ 13
+ 13
+ 16
+ 20
+ 18
+ 23
+ 21
+ 68
+ POSTORDER3 
+7 
+6 
+10 
+13 
+13 
+12 
+5 
+18 
+21 
+68 
+23 
+20 
+16 
+15 
+
+MINIMUM:
+ 3
+
+MAXIMUM: 
+ 68 
+
+Search_itr 12: 
+ 0x563f171ab350 
+
+tab[i]:15
+
+Succesor dla : 
+ 0x563f171ab2c0 
+
+Predecessor dla : 
+ 0x563f171ab4d0 
+
+tab[i]:5
+
+Succesor dla : 
+ 0x563f171ab440 
+
+Predecessor dla : 
+ 0x563f171ab320 
+
+tab[i]:16
+
+Succesor dla : 
+ 0x563f171ab380 
+
+Predecessor dla : 
+ 0x563f171ab260 
+
+tab[i]:20
+
+Succesor dla : 
+ 0x563f171ab4a0 
+
+Predecessor dla : 
+ 0x563f171ab380 
+
+tab[i]:3
+
+Succesor dla : 
+ 0x563f171ab290 
+
+Predecessor dla : 
+ (nil) 
+
+tab[i]:12
+
+Succesor dla : 
+ 0x563f171ab410 
+
+Predecessor dla : 
+ 0x563f171ab3e0 
+
+tab[i]:18
+
+Succesor dla : 
+ 0x563f171ab2f0 
+
+Predecessor dla : 
+ 0x563f171ab2c0 
+
+tab[i]:23
+
+Succesor dla : 
+ 0x563f171ab500 
+
+Predecessor dla : 
+ 0x563f171ab4a0 
+
+tab[i]:10
+
+Succesor dla : 
+ 0x563f171ab350 
+
+Predecessor dla : 
+ 0x563f171ab470 
+
+tab[i]:13
+
+Succesor dla : 
+ 0x563f171ab4d0 
+
+Predecessor dla : 
+ 0x563f171ab350 
+
+tab[i]:6
+
+Succesor dla : 
+ 0x563f171ab470 
+
+Predecessor dla : 
+ 0x563f171ab290 
+
+tab[i]:7
+
+Succesor dla : 
+ 0x563f171ab3e0 
+
+Predecessor dla : 
+ 0x563f171ab440 
+
+Search_rek 12:
+ 0x563f171ab350 
+
+Succesor dla root: 
+ 0x563f171ab2c0 
+
+Predecessor dla root: 
+ 0x563f171ab4d0 

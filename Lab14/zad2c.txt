@@ -1,0 +1,5 @@
+Maslo
+Woda
+
+1 : Maslo : 3.410
+2 : Woda : 2.300

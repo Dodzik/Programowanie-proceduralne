@@ -1,0 +1,20 @@
+Wstawiam elementy na stos.
+Dodaje elemnt na stos: 8 
+Dodaje elemnt na stos: 23 
+Dodaje elemnt na stos: 123 
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {123,23,8,}
+Usuwam element ze stosu.
+Pop()=123
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {23,8,}
+Usuwam element ze stosu.
+Pop()=23
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {8,}
+Wstawiam elementy na stos.
+Dodaje elemnt na stos: 1223 
+Dodaje elemnt na stos: 12 
+Dodaje elemnt na stos: 787 
+Wypisuje zawartosc stosu.
+Lista od poczatku -> {787,12,1223,8,}
