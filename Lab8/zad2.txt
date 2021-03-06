@@ -1,0 +1,14 @@
+Wektor nr: 1
+Podaj x: 2
+Podaj y: 3
+Podaj z: 4
+Wektor nr: 2
+Podaj x: 5
+Podaj y: 6
+Podaj z: 7
+w1 = [2.000000, 3.000000, 4.000000] 
+w2 = [5.000000, 6.000000, 7.000000] 
+Suma wektorów = [7.000000, 9.000000, 11.000000]
+Iloczyn skalarny wektorów = [10.000000, 18.000000, 28.000000]
+Iloczyn wektorowy wektorów = [-3.000000, -6.000000, -3.000000]
+

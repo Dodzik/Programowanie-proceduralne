@@ -1,0 +1,16 @@
+zamiana wartoci za pomocą a
+a : g 
+b : o 
+c : p 
+
+)wypisywanie wartosci za pomocą b(
+g o p
+
+zmiana na duża litera za pomocą c
+a : G 
+b : O 
+c : P 
+
+Odczytane z pliku: 
+tab[0] : G	tab[1] : O	tab[2] : P	
+

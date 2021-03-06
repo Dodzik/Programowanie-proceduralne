@@ -1,0 +1,46 @@
+struct 0
+
+Tab wyniki: 
+2.000	7.000	7.000	
+
+licznik: 3
+
+srednia: 5.333
+
+
+struct 1
+
+Tab wyniki: 
+2.000	7.000	7.000	7.000	2.000	2.000	
+
+licznik: 6
+
+srednia: 4.500
+
+
+struct 2
+
+Tab wyniki: 
+2.000	7.000	7.000	7.000	
+
+licznik: 4
+
+srednia: 5.750
+
+
+struct 3
+
+Tab wyniki: 
+2.000	7.000	
+
+licznik: 2
+
+srednia: 4.500
+
+
+struct pop
+tab wyniki 2.000	7.000	7.000	
+
+licznik: 3
+
+srednia: 5.333

@@ -1,0 +1,12 @@
+jest 5 argumentów wywołania
+Argumenty to: 
+0 : ./a.out 
+integer : unknown 	float : unknown 	double : unknown 	 
+1 : 3443fdf 
+integer : 3443	 float : unknown 	double : unknown 	 
+2 : 3f3 
+integer : 3	 float : unknown 	double : unknown 	 
+3 : f3f 
+integer : unknown 	float : unknown 	double : unknown 	 
+4 : 4.5 
+integer : 4	 float : unknown 	double : unknown 

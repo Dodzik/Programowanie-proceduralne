@@ -1,0 +1,31 @@
+
+posortowana malejaco
+ 123
+ 67
+ 23
+ 13
+ 3
+
+ znaleziony
+
+posortowana rosnaco
+ 3
+ 13
+ 67
+ 123
+ 223
+
+usuniecie 13
+udane usuniecie
+
+ 3
+ 67
+ 123
+ 223
+
+ 
+ 123
+ 67
+ 23
+ 13
+ 3

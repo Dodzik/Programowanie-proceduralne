@@ -1,0 +1,19 @@
+p = 1 	 adres: 0x7ffd3904f3a8 
+ 1
+wynik =1 	 adres: 0x7ffd3904f3a4
+p = 2 	 adres: 0x7ffd3904f388 
+ 2
+wynik =2 	 adres: 0x7ffd3904f384
+p = 3 	 adres: 0x7ffd3904f368 
+ 3
+wynik =6 	 adres: 0x7ffd3904f364
+p = 4 	 adres: 0x7ffd3904f348 
+ 4
+wynik =24 	 adres: 0x7ffd3904f344
+p = 5 	 adres: 0x7ffd3904f328 
+ 5
+wynik =120 	 adres: 0x7ffd3904f324
+p = 6 	 adres: 0x7ffd3904f308 
+ 6
+wynik =720 	 adres: 0x7ffd3904f304
+

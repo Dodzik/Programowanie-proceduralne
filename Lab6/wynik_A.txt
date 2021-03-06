@@ -1,0 +1,6 @@
+argc = 3
+argv[0] = ./a.out
+argv[1] = f3f
+argv[2] = 4.5424n
+Integer: 0, Float: 0.00
+

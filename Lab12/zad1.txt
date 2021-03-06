@@ -1,0 +1,23 @@
+Podaj hasło próba numer 1
+mleko
+
+poprawne haslo
+
+Co chcesz zrobić?
+1) dodaj rekord
+2) usun rekord
+3) odczyt
+4) sprawdzanie rozmiaru
+5) szukanie po nazwiku
+6) szukanie po nr_porz
+podaj nr od 1-6
+3
+Id: Imie Nazwisko wydzial nr_porz
+0: Michał Abram WIFS 1
+1: Jan Ewacki WIGF 3
+2: Dawid Peszko WIR 4
+3: Maciej Smalec PAT 6
+4: Olaf Sawicki WIDP 5
+5: Marek Ciemny WOLKA 2
+6: Ola Zebra KORK 7
+
